@@ -25,7 +25,7 @@ public class MainActivity extends Activity {
                     .commit();
         }
         
-        Toast.makeText(this, "GitHub Test neu", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "GitHub Test neu 2", Toast.LENGTH_SHORT).show();
         
     }
     
